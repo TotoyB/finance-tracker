@@ -6,6 +6,9 @@ ruby '2.6.3'
 #udemy tutorial
 
 gem 'devise'
+gem 'jquery-rails'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
